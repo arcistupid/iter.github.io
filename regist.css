@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+}
+
+.form{
+    margin-top: 50px;
+    text-align: center;
+}
+
+input{
+    display: block;
+    width: 350px;
+    height: 40px;
+    
+} 
