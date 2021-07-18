@@ -110,3 +110,39 @@ container h2:hover{
     transition: 0.5s;
     
 }
+.cust{
+    min-height: 100vh;
+    width: 100%;
+}
+.cust img{
+    text-align: left;
+    width: 50%;
+    height: auto;
+}
+.cust img:hover{
+    opacity: 0.1px;
+}
+.cheche1 h2{
+    text-align: right;
+}
+
+.cheche2 img{
+    text-align: right;
+    width: 50%;
+    height: auto;
+}
+
+.text1{
+    padding-right: 7%;
+    float: right;
+}
+.text1 h4{
+    margin: 0;
+    padding-right: 7%;
+    text-align-last: right;
+}
+.text1 h2{
+    text-align: right;
+    text-align-last: right;
+}
+
